@@ -1,0 +1,14 @@
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\contador de palabras\bin\Debug\net8.0\contador de palabras.exe
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\contador de palabras\bin\Debug\net8.0\contador de palabras.deps.json
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\contador de palabras\bin\Debug\net8.0\contador de palabras.runtimeconfig.json
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\contador de palabras\bin\Debug\net8.0\contador de palabras.dll
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\contador de palabras\bin\Debug\net8.0\contador de palabras.pdb
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\contador de palabras\obj\Debug\net8.0\contador de palabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\contador de palabras\obj\Debug\net8.0\contador de palabras.AssemblyInfoInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\contador de palabras\obj\Debug\net8.0\contador de palabras.AssemblyInfo.cs
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\contador de palabras\obj\Debug\net8.0\contador de palabras.csproj.CoreCompileInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\contador de palabras\obj\Debug\net8.0\contador de palabras.dll
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\contador de palabras\obj\Debug\net8.0\refint\contador de palabras.dll
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\contador de palabras\obj\Debug\net8.0\contador de palabras.pdb
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\contador de palabras\obj\Debug\net8.0\contador de palabras.genruntimeconfig.cache
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\contador de palabras\obj\Debug\net8.0\ref\contador de palabras.dll

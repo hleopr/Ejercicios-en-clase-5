@@ -1,0 +1,14 @@
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\Mayor o menor\bin\Debug\net8.0\Mayor o menor.exe
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\Mayor o menor\bin\Debug\net8.0\Mayor o menor.deps.json
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\Mayor o menor\bin\Debug\net8.0\Mayor o menor.runtimeconfig.json
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\Mayor o menor\bin\Debug\net8.0\Mayor o menor.dll
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\Mayor o menor\bin\Debug\net8.0\Mayor o menor.pdb
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\Mayor o menor\obj\Debug\net8.0\Mayor o menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\Mayor o menor\obj\Debug\net8.0\Mayor o menor.AssemblyInfoInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\Mayor o menor\obj\Debug\net8.0\Mayor o menor.AssemblyInfo.cs
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\Mayor o menor\obj\Debug\net8.0\Mayor o menor.csproj.CoreCompileInputs.cache
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\Mayor o menor\obj\Debug\net8.0\Mayor o menor.dll
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\Mayor o menor\obj\Debug\net8.0\refint\Mayor o menor.dll
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\Mayor o menor\obj\Debug\net8.0\Mayor o menor.pdb
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\Mayor o menor\obj\Debug\net8.0\Mayor o menor.genruntimeconfig.cache
+C:\Users\leopi\OneDrive\Desktop\Progra\ejercicio en clase 5\Mayor o menor\obj\Debug\net8.0\ref\Mayor o menor.dll
